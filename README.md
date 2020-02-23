@@ -22,7 +22,11 @@ TensorFlow 1.13.1
 
 ## Running the code
 
-Clone all files to the local computer and run
+Clone all files to the local computer, fill appropriate path.
+
+Note to split the study examples in DATA file into case group and control group.
+
+Or, one can use all study samples as case group and control group simultaneously to just have a feeling of the code.
 
 
 
