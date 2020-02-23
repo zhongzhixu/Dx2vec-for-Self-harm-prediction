@@ -1,4 +1,7 @@
 # Dx2vec-for-Self-harm-prediction
-This repository served as the backend for paper "Predicting Self-harm Incidents Following Inpatient Visits using Disease Comorbidity Network"
-A novel deep learning model for self-harm prediction after hospital discharge.
+This repository is the implementation of Dx2vec in paper "Predicting Self-harm Incidents Following Inpatient Visits using Disease Comorbidity Network".
+
+Dx2vec is a novel deep learning model which embeds an individual's structural information into a low dimensional vector. This vector can then be used in various downstream tasks such as disease risk modelling, patient clustring and the estimation of hospital utilization. 
+In this paper we use Dx2vec to perform the self-harm prediction after hospital discharge.
+
 The data is provided by the Hospital Authority of Hong Kong the ethical approval UW11-495. The data can not be made available to others according to the Hospital Authority and the ethical approval.
