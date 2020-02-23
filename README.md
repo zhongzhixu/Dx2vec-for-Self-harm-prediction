@@ -8,14 +8,18 @@ The data is provided by the Hospital Authority of Hong Kong the ethical approval
 
 ## Files in the folder
 DATAFILE: simulated_data.csv
+
 CODE: dx2vec.py
 
 ## Environment:
 Python 3.6
+
 Keras 2.2.4
+
 TensorFlow 1.13.1
 
 ## Running the code
+
 clone all files to the local computer and run
 
 
