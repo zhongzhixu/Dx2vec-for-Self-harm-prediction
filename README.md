@@ -9,9 +9,9 @@ In this paper we use Dx2vec to perform the self-harm prediction after hospital d
 The data is provided by the Hospital Authority of Hong Kong the ethical approval UW11-495. The data can not be made available to others according to the Hospital Authority and the ethical approval. Instead, we provide some simulated cases in DATA folder.  
 
 ## Files in the folder
-DATAFILE: simulated_data.csv
+DATA: simulated cases
 
-CODE: DX2vec.py
+DX2vec.py
 
 ## Environment:
 Python 3.6
